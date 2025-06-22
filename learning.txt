@@ -1,1 +1,2 @@
+What I have learned from this course
 Through this course, I’ve learned how to use Git and GitHub to track changes in my projects, manage code versions, and collaborate with others. As a refugee student in Rwanda with a passion for technology and climate action, these skills are helping me build confidence in contributing to real-world digital solutions. This is a big step in my journey to becoming a professional developer and helping others in my community.
